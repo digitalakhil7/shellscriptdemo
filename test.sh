@@ -1,4 +1,4 @@
 date
 cal
 java --version
-echo "added webhook now"
+echo "added webhook now, cool!"
