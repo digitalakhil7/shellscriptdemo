@@ -1,5 +1,5 @@
 echo "starting the test.sh script"
-whoami
+echo "$(whoami) - username"
 date
 cal
 java --version
